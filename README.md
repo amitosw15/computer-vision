@@ -11,7 +11,7 @@ Explore my lane detection pipeline, including various real-world scenarios:
 📈 Curve Fitting for Lane Detection → [Watch Video](https://www.youtube.com/watch?v=6dNvXTT2gNY )
 
 ### 🎲 3D & Cool Visualizations
-🔄 Perspective Warp for Lane Alignment → [Watch Video](https://youtu.be/JWCCWzEUbWo)
+🔄 Perspective Warp  → [Watch Video](https://youtu.be/JWCCWzEUbWo)
 
 🎲 Cool 3D Cube Animation →[ Watch Video](https://youtube.com/shorts/fBzQYYETB1o?feature=share )
 
